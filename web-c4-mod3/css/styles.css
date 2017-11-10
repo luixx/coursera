@@ -1,0 +1,24 @@
+ * {
+  box-sizing: border-box;
+  font-family: Helvetica;
+}
+
+.row {
+  margin: 15px;
+}
+.row > div {
+  /*border: 2px solid red;*/
+  margin-bottom: 30px;
+  
+}
+
+.heading {
+ text-align: center;
+ font-weight: bold;
+}
+
+
+.col-bg {
+	  background-color: gray;
+	  padding: 15px;
+}
